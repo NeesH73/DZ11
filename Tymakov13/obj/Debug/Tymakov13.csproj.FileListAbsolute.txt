@@ -1,0 +1,7 @@
+D:\C#\DZ11\Tymakov13\bin\Debug\Tymakov13.exe.config
+D:\C#\DZ11\Tymakov13\bin\Debug\Tymakov13.exe
+D:\C#\DZ11\Tymakov13\bin\Debug\Tymakov13.pdb
+D:\C#\DZ11\Tymakov13\obj\Debug\Tymakov13.csproj.AssemblyReference.cache
+D:\C#\DZ11\Tymakov13\obj\Debug\Tymakov13.csproj.CoreCompileInputs.cache
+D:\C#\DZ11\Tymakov13\obj\Debug\Tymakov13.exe
+D:\C#\DZ11\Tymakov13\obj\Debug\Tymakov13.pdb
